@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recordset table="msglog">
+  <record id="record.number=145183" recordid="145183">
+    <operator type="string">SYSTEM</operator>
+    <device type="string">SYSTEM</device>
+    <msg.time type="dateTime">06/18/21 02:26:55</msg.time>
+    <msg.name type="string">file.load</msg.name>
+    <msg.number type="decimal">10</msg.number>
+    <msg.text sctype="array">
+      <msg.text sctype="string">7001 records loaded into help file from external file: ..\data\L10N\ja\ja.unl</msg.text>
+    </msg.text>
+    <record.number type="decimal">145183</record.number>
+    <msg.level type="decimal">1</msg.level>
+    <msg.class type="string">record import/export</msg.class>
+    <sysmodcount type="decimal">0</sysmodcount>
+    <sysmoduser type="string">problem</sysmoduser>
+    <sysmodtime type="dateTime">06/18/21 02:27:53</sysmodtime>
+  </record>
+</recordset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recordset table="msglog">
+  <record id="record.number=145363" recordid="145363">
+    <operator type="string">SYSTEM</operator>
+    <device type="string">SYSTEM</device>
+    <msg.time type="dateTime">06/18/21 03:06:25</msg.time>
+    <msg.name type="string">file.load</msg.name>
+    <msg.number type="decimal">11</msg.number>
+    <msg.text sctype="array">
+      <msg.text sctype="string">176 records from ..\data\L10N\zh-Hans\zh-Hans.unl added to htmltemplates.</msg.text>
+    </msg.text>
+    <record.number type="decimal">145363</record.number>
+    <msg.level type="decimal">1</msg.level>
+    <msg.class type="string">record import/export</msg.class>
+    <sysmodcount type="decimal">0</sysmodcount>
+    <sysmoduser type="string">problem</sysmoduser>
+    <sysmodtime type="dateTime">06/18/21 03:06:40</sysmodtime>
+  </record>
+</recordset>

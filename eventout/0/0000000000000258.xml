@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recordset table="eventout">
+  <record id="evsysseq=&quot;0000000000000258&quot;" recordid="0000000000000258">
+    <evtype type="string">email</evtype>
+    <evtime type="dateTime">06/18/21 02:49:13</evtime>
+    <evsysseq type="string">0000000000000258</evsysseq>
+    <evusrseq NullValue="1" type="string"/>
+    <evsysopt type="string">1</evsysopt>
+    <evuser NullValue="1" type="string"/>
+    <evpswd NullValue="1" type="string"/>
+    <evsepchar type="string">^</evsepchar>
+    <evfields type="string">sales@sm.microfocus.com;^falcon^^^^^Your Service Manager password has been updated by falcon.  It was changed on Fri Jun 18 2021 16:48:18 GMT+0800 (China Standard Time).</evfields>
+    <evstatus NullValue="1" type="string"/>
+    <evexpire type="dateTime">06/18/21 02:49:13</evexpire>
+    <evcount NullValue="1" type="decimal"/>
+    <evnumber NullValue="1" type="string"/>
+    <evid NullValue="1" type="string"/>
+    <sysmodcount type="decimal">0</sysmodcount>
+    <sysmoduser type="string">problem</sysmoduser>
+    <sysmodtime type="dateTime">06/18/21 02:49:14</sysmodtime>
+    <evattachment NullValue="1" sctype="array">
+      <evattachment sctype="structure">
+        <uid NullValue="1" type="string"/>
+        <application NullValue="1" type="string"/>
+        <topic NullValue="1" type="string"/>
+        <inline NullValue="1" type="boolean"/>
+      </evattachment>
+    </evattachment>
+    <reference.id type="string">falcon</reference.id>
+    <evprocessed NullValue="1" type="boolean"/>
+  </record>
+</recordset>

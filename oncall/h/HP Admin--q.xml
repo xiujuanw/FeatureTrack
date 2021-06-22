@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recordset table="oncall">
+  <record id="name=&quot;HP Admin&quot;" recordid="HP Admin">
+    <name type="string">HP Admin</name>
+    <schedule NullValue="1" sctype="array">
+      <schedule sctype="structure">
+        <contact NullValue="1" type="string"/>
+        <start.time NullValue="1" type="dateTime"/>
+        <end.time NullValue="1" type="dateTime"/>
+        <notify.method NullValue="1" type="string"/>
+        <condition NullValue="1" type="boolean"/>
+      </schedule>
+    </schedule>
+    <old.flag type="boolean">false</old.flag>
+    <sysmodtime type="dateTime">06/20/21 05:00:55</sysmodtime>
+    <sysmoduser type="string">problem</sysmoduser>
+    <sysmodcount type="decimal">3</sysmodcount>
+  </record>
+</recordset>

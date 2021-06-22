@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recordset table="msglog">
+  <record id="record.number=145069" recordid="145069">
+    <operator type="string">system.start</operator>
+    <device type="string">SYSTEM</device>
+    <msg.time type="dateTime">06/18/21 02:13:26</msg.time>
+    <msg.name type="string">system.start</msg.name>
+    <msg.number type="decimal">3</msg.number>
+    <msg.text sctype="array">
+      <msg.text sctype="string">System startup completed successfully, elapsed time: 00:00:24.</msg.text>
+    </msg.text>
+    <record.number type="decimal">145069</record.number>
+    <msg.level type="decimal">1</msg.level>
+    <msg.class type="string">system startup/shutdown</msg.class>
+    <sysmodcount type="decimal">0</sysmodcount>
+    <sysmoduser type="string">problem</sysmoduser>
+    <sysmodtime type="dateTime">06/18/21 02:14:20</sysmodtime>
+  </record>
+</recordset>

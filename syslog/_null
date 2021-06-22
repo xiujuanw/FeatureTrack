@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recordset table="syslog">
+  <record id="start.time='06/18/21 02:13:04'" recordid="">
+    <event type="string">scheduler</event>
+    <start.time type="dateTime">06/18/21 02:13:04</start.time>
+    <stop.time NullValue="1" type="dateTime"/>
+    <user.name type="string">report</user.name>
+    <terminal.name type="string">report</terminal.name>
+    <current.status type="string">started</current.status>
+    <IPaddr NullValue="1" type="string"/>
+    <pid type="decimal">18</pid>
+    <sysmodcount type="decimal">0</sysmodcount>
+    <sysmoduser type="string">system.start</sysmoduser>
+    <sysmodtime type="dateTime">06/18/21 02:13:04</sysmodtime>
+    <user.sid NullValue="1" type="string"/>
+  </record>
+</recordset>
